@@ -1,0 +1,125 @@
+body {
+    background-color: white;
+    font-family: sans-serif;
+    font-weight: 100;
+    color: #494949;
+    text-align: center;
+}
+
+#refresh{
+    font-size: 55px;
+    color: #262626;
+    font-family: sans-serif;
+    font-weight: 100;
+    border: none;
+    background-color: transparent;
+}
+
+select{
+    background-color: #efefef;
+    width: 200px;
+    height:25px;
+    color: #494949;
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: 100;
+    border: none;
+}
+
+#results{
+    background-color: #f9194c;
+    width: 75px;
+    height:25px;
+    color: white;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: 100;
+    border: none;
+    border-radius: 3px;
+}
+
+#results:hover{
+    background-color: #fa3865;
+    width: 75px;
+    height:25px;
+    color: white;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: 100;
+    border: none;
+    border-radius: 3px;
+
+}
+
+table {
+    size: 15px;
+    font-family: sans-serif;
+    font-weight: 100;
+    color: #262626;
+    width: 100%;
+    font-size: 15px;
+}
+
+h3{
+    display: inline;
+    text-align: left;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #262626;
+}
+
+#appleMusic{
+    display:table;
+    margin:0px;
+}
+
+#appleMusic div{
+    display:table-cell;
+}
+
+#apple{
+    background-color: #f9194c;
+    width: 165px;
+    height: 23px;
+    color: white;
+    font-size: 11px;
+    font-family: sans-serif;
+    font-weight: 100;
+    border: none;
+    border-radius: 3px;
+}
+
+
+#apple:hover{
+    background-color: #fa3865;
+    width: 165px;
+    height: 23px;
+    color: white;
+    font-size: 11px;
+    font-family: sans-serif;
+    font-weight: 100;
+    border: none;
+    border-radius: 3px;
+}
+
+#image {
+    width: 120px;
+    height: 120px;
+}
+
+#table{
+    border-color:transparent;
+    width: 100%
+}
+
+#j{
+    font-size: 11px;
+    font-family: sans-serif;
+    color:transparent;
+}
+
+a:link, a:visited {
+    color: #fa3865;
+}
+
